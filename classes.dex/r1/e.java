@@ -1,0 +1,133 @@
+package r1;
+
+import android.text.TextUtils;
+
+public final class e {
+    public final String A;
+    public final String B;
+    public final String C;
+    public final String D;
+    public final String E;
+    public final String F;
+    public final String G;
+    public final String H;
+    public final String I;
+    public final String J;
+    public final String K;
+    public final String L;
+    public final String M;
+    public final String a;
+    public final String b;
+    public final String c;
+    public final String d;
+    public final String e;
+    public final String f;
+    public final String g;
+    public final String h;
+    public final String i;
+    public final String j;
+    public final String k;
+    public final String l;
+    public final String m;
+    public final String n;
+    public final String o;
+    public final String p;
+    public final String q;
+    public final String r;
+    public final String s;
+    public final String t;
+    public final String u;
+    public final String v;
+    public final String w;
+    public final String x;
+    public final String y;
+    public final String z;
+
+    public e(String s) {
+        String s1;
+        if(TextUtils.isEmpty(null)) {
+            this.a = "external_player_id";
+            this.b = "game_player_id";
+            this.c = "profile_name";
+            this.d = "profile_icon_image_uri";
+            this.e = "profile_icon_image_url";
+            this.f = "profile_hi_res_image_uri";
+            this.g = "profile_hi_res_image_url";
+            this.h = "last_updated";
+            this.i = "is_in_circles";
+            this.j = "played_with_timestamp";
+            this.k = "current_xp_total";
+            this.l = "current_level";
+            this.m = "current_level_min_xp";
+            this.n = "current_level_max_xp";
+            this.o = "next_level";
+            this.p = "next_level_max_xp";
+            this.q = "last_level_up_timestamp";
+            this.r = "player_title";
+            this.s = "is_profile_visible";
+            this.t = "most_recent_external_game_id";
+            this.u = "most_recent_game_name";
+            this.v = "most_recent_activity_timestamp";
+            this.w = "most_recent_game_icon_uri";
+            this.x = "most_recent_game_hi_res_uri";
+            this.y = "most_recent_game_featured_uri";
+            this.z = "has_debug_access";
+            this.A = "gamer_tag";
+            this.B = "real_name";
+            this.C = "banner_image_landscape_uri";
+            this.D = "banner_image_landscape_url";
+            this.E = "banner_image_portrait_uri";
+            this.F = "banner_image_portrait_url";
+            this.G = "total_unlocked_achievements";
+            this.H = "play_together_friend_status";
+            this.I = "play_together_nickname";
+            this.J = "play_together_invitation_nickname";
+            this.K = "nickname_abuse_report_token";
+            this.L = "friends_list_visibility";
+            s1 = "always_auto_sign_in";
+        }
+        else {
+            this.a = "nullexternal_player_id";
+            this.b = "nullgame_player_id";
+            this.c = "nullprofile_name";
+            this.d = "nullprofile_icon_image_uri";
+            this.e = "nullprofile_icon_image_url";
+            this.f = "nullprofile_hi_res_image_uri";
+            this.g = "nullprofile_hi_res_image_url";
+            this.h = "nulllast_updated";
+            this.i = "nullis_in_circles";
+            this.j = "nullplayed_with_timestamp";
+            this.k = "nullcurrent_xp_total";
+            this.l = "nullcurrent_level";
+            this.m = "nullcurrent_level_min_xp";
+            this.n = "nullcurrent_level_max_xp";
+            this.o = "nullnext_level";
+            this.p = "nullnext_level_max_xp";
+            this.q = "nulllast_level_up_timestamp";
+            this.r = "nullplayer_title";
+            this.s = "nullis_profile_visible";
+            this.t = "nullmost_recent_external_game_id";
+            this.u = "nullmost_recent_game_name";
+            this.v = "nullmost_recent_activity_timestamp";
+            this.w = "nullmost_recent_game_icon_uri";
+            this.x = "nullmost_recent_game_hi_res_uri";
+            this.y = "nullmost_recent_game_featured_uri";
+            this.z = "nullhas_debug_access";
+            this.A = "nullgamer_tag";
+            this.B = "nullreal_name";
+            this.C = "nullbanner_image_landscape_uri";
+            this.D = "nullbanner_image_landscape_url";
+            this.E = "nullbanner_image_portrait_uri";
+            this.F = "nullbanner_image_portrait_url";
+            this.G = "nulltotal_unlocked_achievements";
+            this.H = "nullplay_together_friend_status";
+            this.I = "nullplay_together_nickname";
+            this.J = "nullplay_together_invitation_nickname";
+            this.K = "nullnickname_abuse_report_token";
+            this.L = "nullfriends_list_visibility";
+            s1 = "nullalways_auto_sign_in";
+        }
+        this.M = s1;
+    }
+}
+

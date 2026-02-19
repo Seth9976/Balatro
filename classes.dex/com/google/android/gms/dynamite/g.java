@@ -1,0 +1,5 @@
+package com.google.android.gms.dynamite;
+
+final class g implements a {
+}
+

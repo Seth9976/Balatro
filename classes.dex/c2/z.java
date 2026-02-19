@@ -1,0 +1,10 @@
+package c2;
+
+enum z {
+    UNINITIALIZED,
+    AUTHENTICATING,
+    AUTHENTICATED,
+    AUTHENTICATION_FAILED;
+
+}
+
